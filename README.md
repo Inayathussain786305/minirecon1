@@ -68,16 +68,6 @@ Let the script perform:
 
 Results will be printed in terminal and saved in:
 
-    results/domain-name-YYYY-MM-DD.txt
-
-📷 Screenshot (Example Output)
-
-Target: example.com
-IP Address: 93.184.216.34
-Subdomains Found: www, mail, admin
-Open Ports: 80, 443
-Live: Yes
-
 👤 Author
 
 Built with care by Inayat Hussain (Inayat Raj Chohan)
