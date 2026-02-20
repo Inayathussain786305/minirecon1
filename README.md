@@ -72,11 +72,8 @@ Results will be printed in terminal and saved in:
 
 Built with care by Inayat Hussain (Inayat Raj Chohan)
 
-    🔗 LinkedIn
-
     🧠 Facebook: Inayat Raj Chohan
 
-    🐙 GitHub: https://github.com/your-github-username
 
 ⚠️ Disclaimer
 
